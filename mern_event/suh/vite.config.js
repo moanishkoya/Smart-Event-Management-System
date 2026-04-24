@@ -1,5 +1,5 @@
 // File: suh/vite.config.js
-//test of pushing to github
+//test of pushing to github 2.0
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import basicSsl from '@vitejs/plugin-basic-ssl'
